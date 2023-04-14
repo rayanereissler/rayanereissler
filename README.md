@@ -1,5 +1,5 @@
 ## Olá, me chamo Rayane Reissler e sou estudante de tecnologia!! 👩🏻‍🦰👋
-### Atualmente sou aluna do Programa Desenvolve Boticário 2022 em parceria com a Alura, e este é o meu perfil estudantil, sejam bem vindos!✨
+### Atualmente sou aluna da Formação Com.Dominio Digital 4.0 em parceria com a Lenovo, e este é o meu perfil estudantil, sejam bem vindos!✨
 
 ##
 <div align="center">
