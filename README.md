@@ -1,5 +1,5 @@
 ## Olá, me chamo Rayane Reissler e sou estudante de tecnologia!! 👩🏻‍🦰👋
-### Atualmente sou aluna da Formação Com.Dominio Digital 4.0 em parceria com a Lenovo, e este é o meu perfil estudantil, sejam bem vindos!✨
+### Atualmente estou cursando Análise de Desenvolvimento de Sistemas e este é o meu perfil estudantil, sejam bem vindos!✨
 
 ##
 <div align="center">
