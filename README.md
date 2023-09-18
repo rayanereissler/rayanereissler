@@ -1,4 +1,4 @@
-## Olá, me chamo Rayane Reissler e sou estudante de tecnologia!! 👩🏻‍🦰👋
+## Olá, me chamo Rayane Reissler e sou desenvolvedora Web! 👩🏻‍🦰👋
 ### Atualmente estou cursando Análise de Desenvolvimento de Sistemas e este é o meu perfil estudantil, sejam bem vindos!✨
 
 ##
